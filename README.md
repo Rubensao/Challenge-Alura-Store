@@ -45,6 +45,7 @@ Evaluar el desempeño de las tiendas considerando:
 ````
 
 2. Abrir el archivo `.ipynb` en Google Colab o Jupyter.
+
 3. Ejecutar todas las celdas para ver el análisis completo.
 
 ---
@@ -55,6 +56,23 @@ Evaluar el desempeño de las tiendas considerando:
 * Pandas
 * Matplotlib
 * Google Colab / VS Code
+
+---
+
+## Visualización Interactiva
+
+Como complemento del análisis realizado en este notebook, se desarrolló un dashboard interactivo con Streamlit para facilitar la exploración de los resultados por parte de usuarios no técnicos.
+
+Puedes acceder al dashboard en el siguiente enlace:
+https://alurastore-dashboard.streamlit.app/
+
+Este dashboard permite:
+
+Visualizar métricas clave de cada tienda
+
+Comparar ingresos, calificaciones y costos de envío
+
+Obtener una recomendación visual basada en el desempeño general
 
 ---
 

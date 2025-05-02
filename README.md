@@ -42,8 +42,7 @@ Evaluar el desempeño de las tiendas considerando:
 1. Instalar dependencias si no están presentes:
    ```bash
    pip install pandas matplotlib
-````
-````
+   ````
 2. Abrir el archivo `.ipynb` en Google Colab o Jupyter.
 
 3. Ejecutar todas las celdas para ver el análisis completo.
@@ -68,11 +67,11 @@ https://alurastore-dashboard.streamlit.app/
 
 Este dashboard permite:
 
-Visualizar métricas clave de cada tienda
+* Visualizar métricas clave de cada tienda
 
-Comparar ingresos, calificaciones y costos de envío
+* Comparar ingresos, calificaciones y costos de envío
 
-Obtener una recomendación visual basada en el desempeño general
+* Obtener una recomendación visual basada en el desempeño general
 
 ---
 
@@ -80,4 +79,4 @@ Obtener una recomendación visual basada en el desempeño general
 
 Desafío propuesto por **Alura Latam**
 
-```
+

@@ -43,7 +43,7 @@ Evaluar el desempeño de las tiendas considerando:
    ```bash
    pip install pandas matplotlib
 ````
-
+````
 2. Abrir el archivo `.ipynb` en Google Colab o Jupyter.
 
 3. Ejecutar todas las celdas para ver el análisis completo.
